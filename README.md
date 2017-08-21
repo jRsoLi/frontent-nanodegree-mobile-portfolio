@@ -14,9 +14,9 @@
 
 ### Changes:
 
-Removed declarations from the loops and put them beforehand
-Made declerations more specific by using "getElemtById" and "getElementsByClassName"
-Compressed Pizza Image
+* Removed declarations from the loops and put them beforehand
+* Made declerations more specific by using "getElemtById" and "getElementsByClassName"
+* Compressed Pizza Image
 
 ## Instructions to run locally:
 
